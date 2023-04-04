@@ -1,1 +1,1 @@
-var posts=["2023/04/04/hello-world/","2023/04/04/test-my-site/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["2023/04/04/test-my-site/","2023/04/04/hello-world/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
